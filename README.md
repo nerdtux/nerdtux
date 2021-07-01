@@ -1,6 +1,6 @@
 Meu nome é Gabriel Iglesias
 
-Conheço Linux desde 2007. Recebi cd's do Ubuntu dessa época
+Conheço Linux desde 2007.
 
 Estou estudando para migrar de carreira. Meu foco é tornar-me DevOps / SRE.
 
